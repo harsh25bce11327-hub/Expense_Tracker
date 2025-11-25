@@ -47,4 +47,8 @@ It is lightweight, beginner-friendly, and demonstrates the use of classes, loops
 - Total Calculation
 ![image alt](https://github.com/harsh25bce11327-hub/Expense_Tracker/blob/main/Screenshot%202025-11-25%20205452.png?raw=true)
 
+## Future Enhancements
+- Add dates for each expense
+- Generate category-wise summaries
+- Save expenses permanently using file or database storage
 
