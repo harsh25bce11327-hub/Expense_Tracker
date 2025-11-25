@@ -38,3 +38,8 @@ It is lightweight, beginner-friendly, and demonstrates the use of classes, loops
 - Try invalid inputs (e.g., negative amount, non-numeric values) to confirm error handling.
 - Add multiple expenses and verify the Total calculation.
 - Exit the program using the menu option and restart to test usability.
+
+## Screenshots
+- Adding Expenses
+![image alt]()
+
