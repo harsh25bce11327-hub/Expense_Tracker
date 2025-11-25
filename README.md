@@ -43,4 +43,7 @@ It is lightweight, beginner-friendly, and demonstrates the use of classes, loops
 - Adding Expenses
 ![image alt](https://github.com/harsh25bce11327-hub/Expense_Tracker/blob/main/Screenshot%202025-11-25%20205306.png?raw=true)
 - Viewing Expenses
-![image alt](https://github.com/harsh25bce11327-hub/Expense_Tracker/blob/main/Screenshot%202025-11-25%20205306.png?raw=true)
+![image alt](https://github.com/harsh25bce11327-hub/Expense_Tracker/blob/main/Screenshot%202025-11-25%20205348.png?raw=true)
+- Total Calculation
+![image alt](https://github.com/harsh25bce11327-hub/Expense_Tracker/blob/main/Screenshot%202025-11-25%20205348.png?raw=true)
+
