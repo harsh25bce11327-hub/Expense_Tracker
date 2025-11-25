@@ -1,7 +1,6 @@
 # *Problem Statement*
-Managing daily expenses manually can be difficult and unorganized. People often forget their spendings or miscalculate totals, leading to poor financial planning. The lack of a simple and quick system to record and track expenses creates the need for a lightweight solution.  
-The Expense Tracker program solves this by allowing users to add expenses, categorize them, view all entries, and calculate total spending easily through a command-line interface.
-
+- The Expense Tracker is a simple **command-line Python application** designed to help users record their daily spending, categorize expenses, and quickly     calculate the total amount spent.  
+- It is lightweight, beginner-friendly, and demonstrates the use of classes, loops, and input validation in Python.
 ---
 
 # *Scope of the Project*
@@ -27,4 +26,5 @@ The Expense Tracker program solves this by allowing users to add expenses, categ
 - Show all recorded expenses in a formatted list.
 - Calculate the total amount spent.
 - Simple and interactive text-based menu.
+
 - No external libraries required.
