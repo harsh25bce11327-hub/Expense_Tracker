@@ -52,3 +52,4 @@ It is lightweight, beginner-friendly, and demonstrates the use of classes, loops
 - Generate category-wise summaries
 - Save expenses permanently using file or database storage
 
+
